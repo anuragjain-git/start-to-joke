@@ -1,0 +1,41 @@
+name: star-to-joke
+run-name:  ${{ github.actor }} starred this repository
+on:
+  watch:
+    types: [started]
+jobs:
+  commit-joke-to-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
+        
+      - name: Fetching a random joke
+        id: joke
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: https://joke.deno.dev
+          method: 'GET'
+          timeout: 20000
+      
+      - name: Writing the joke to README.md
+        run: |
+          setup="${{ fromJson(steps.joke.outputs.response).setup }}"
+          punchline="${{ fromJson(steps.joke.outputs.response).punchline }}"
+          finalJoke="${setup} ${punchline}"
+          echo -e "😂 [${{ github.actor }}](https://github.com/${{ github.actor }})  => ${finalJoke}\n\n $(cat README.md)" > README.md
+      
+      - name: Committing files
+        run: |
+          git config --local user.email "itsanuragjain.03@gmail.com"
+          git config --local user.name "anuragjain-git"
+          git add .
+          git commit -m "⭐️ ${{ github.actor }} starred this repo to commit a random joke in README.md"
+      
+      - name: Pushing the changes back into the repository
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
