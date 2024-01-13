@@ -1,4 +1,6 @@
-😂 [Anil-Nayak-2021](https://github.com/Anil-Nayak-2021)  => Where was the Declaration of Independence signed? At the bottom! 
+😂 [scd-02](https://github.com/scd-02)  => How many apples grow on a tree? All of them!
+
+ 😂 [Anil-Nayak-2021](https://github.com/Anil-Nayak-2021)  => Where was the Declaration of Independence signed? At the bottom! 
 
  😂 [Anil-Nayak-2021](https://github.com/Anil-Nayak-2021)  => What do you get hanging from Apple trees? Sore arms.
 
