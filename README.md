@@ -1,4 +1,6 @@
-😂 [scd-02](https://github.com/scd-02)  => How many apples grow on a tree? All of them!
+😂 [roshanbiswanath](https://github.com/roshanbiswanath)  => Why did the Clydesdale give the pony a glass of water? Because he was a little horse!
+
+ 😂 [scd-02](https://github.com/scd-02)  => How many apples grow on a tree? All of them!
 
  😂 [Anil-Nayak-2021](https://github.com/Anil-Nayak-2021)  => Where was the Declaration of Independence signed? At the bottom! 
 
