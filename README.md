@@ -1,4 +1,6 @@
-😂 [l4rm4nd](https://github.com/l4rm4nd)  => Why are fish easy to weigh? Because they have their own scales.
+😂 [l4rm4nd](https://github.com/l4rm4nd)  => An IPv6 packet is walking out of the house. He goes nowhere.
+
+ 😂 [l4rm4nd](https://github.com/l4rm4nd)  => Why are fish easy to weigh? Because they have their own scales.
 
  😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => What's the best part about TCP jokes? I get to keep telling them until you get them.
 
