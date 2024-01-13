@@ -1,4 +1,6 @@
-😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => What's the best part about TCP jokes? I get to keep telling them until you get them.
+😂 [l4rm4nd](https://github.com/l4rm4nd)  => Why are fish easy to weigh? Because they have their own scales.
+
+ 😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => What's the best part about TCP jokes? I get to keep telling them until you get them.
 
  😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => When do doctors get angry? When they run out of patients.
 
