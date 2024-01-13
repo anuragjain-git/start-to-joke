@@ -1,4 +1,6 @@
-😂 [shubhamtiwary1](https://github.com/shubhamtiwary1)  => What do you give a sick lemon? Lemonaid.
+😂 [auryannn](https://github.com/auryannn)  => Why do birds fly south for the winter? Because it's too far to walk.
+
+ 😂 [shubhamtiwary1](https://github.com/shubhamtiwary1)  => What do you give a sick lemon? Lemonaid.
 
  😂 [shatrujitmishra](https://github.com/shatrujitmishra)  => What did the pirate say on his 80th birthday? Aye Matey!
 
