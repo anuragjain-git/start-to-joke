@@ -1,4 +1,6 @@
-😂 [l4rm4nd](https://github.com/l4rm4nd)  => An IPv6 packet is walking out of the house. He goes nowhere.
+😂 [shatrujitmishra](https://github.com/shatrujitmishra)  => What did the pirate say on his 80th birthday? Aye Matey!
+
+ 😂 [l4rm4nd](https://github.com/l4rm4nd)  => An IPv6 packet is walking out of the house. He goes nowhere.
 
  😂 [l4rm4nd](https://github.com/l4rm4nd)  => Why are fish easy to weigh? Because they have their own scales.
 
