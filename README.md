@@ -1,4 +1,6 @@
-😂 [roshanbiswanath](https://github.com/roshanbiswanath)  => Why did the Clydesdale give the pony a glass of water? Because he was a little horse!
+😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => When do doctors get angry? When they run out of patients.
+
+ 😂 [roshanbiswanath](https://github.com/roshanbiswanath)  => Why did the Clydesdale give the pony a glass of water? Because he was a little horse!
 
  😂 [scd-02](https://github.com/scd-02)  => How many apples grow on a tree? All of them!
 
