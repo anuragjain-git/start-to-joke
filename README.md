@@ -1,4 +1,6 @@
-😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => When do doctors get angry? When they run out of patients.
+😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => What's the best part about TCP jokes? I get to keep telling them until you get them.
+
+ 😂 [vivekpathakgit](https://github.com/vivekpathakgit)  => When do doctors get angry? When they run out of patients.
 
  😂 [roshanbiswanath](https://github.com/roshanbiswanath)  => Why did the Clydesdale give the pony a glass of water? Because he was a little horse!
 
